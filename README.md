@@ -24,7 +24,7 @@ VidSnapAI is a Flask-based web application that lets users upload images/videos,
 ## 🧠 Tech Stack
 
 - **Backend:** Flask, Python, FFmpeg
-- **Frontend:** HTML, CSS (Bootstrap 5), JavaScript
+- **Frontend:** HTML, CSS (Bootstrap 5)
 - **AI Voiceover:** ElevenLabs API
 - **Video Rendering:** FFmpeg (via subprocess)
 
