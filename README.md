@@ -30,6 +30,21 @@ VidSnapAI is a Flask-based web application that lets users upload images/videos,
 
 ---
 
+## Add your ElevenLabs API key to config.py:
+```bash
+ELEVENLABS_API_KEY = "your-api-key-here"
+```
+
+## Run the Flask app:
+```bash
+python main.py
+```
+
+## Run the background video/audio processing script:
+```bash
+python generate_process.py
+```
+
 ## 🛠️ How to Run Locally
 
 1. Clone the repo:
