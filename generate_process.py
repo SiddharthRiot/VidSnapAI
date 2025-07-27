@@ -1,4 +1,3 @@
-# This file looks for new folders inside user uploads and converts them to reel if they are not already converted
 import os 
 from text_to_audio import text_to_speech_file
 import time
